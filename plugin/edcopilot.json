@@ -1,0 +1,25 @@
+{
+    "$schema": "https://dmnemec.github.io/edvr-mfd/schema/display.v1.schema.json",
+    "schemaVersion": 1,
+    "title": "",
+    "subtitle": "",
+    "statusBadge": {
+        "text": "Disconnected",
+        "color": "crit"
+    },
+    "footerHint": "",
+    "tabs": [
+        {
+            "id": "Places",
+            "title": "Places",
+            "type": "list",
+            "items": []
+        },
+        {
+            "id": "Information",
+            "title": "Information",
+            "type": "list",
+            "items": []
+        }
+    ]
+}

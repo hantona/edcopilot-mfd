@@ -1,0 +1,8 @@
+<LTClear>
+<LTModule>Frame Shift Wake Scanner
+<LTDetail>1~0 Alpha
+<LTDetail>2~0 Bravo
+<LTDetail>3~0 Charlie
+<LTDetail>4~0 Delta
+<LTDetail>5~0 Echo
+<LTDisplay>

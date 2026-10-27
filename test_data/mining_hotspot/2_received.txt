@@ -1,0 +1,22 @@
+<LOClear>
+<LOTitle>Rings with Platinum hotspots
+<LOStructure>NumSelector|RingType|SystemAndStation|Spacer2|SignalList|Spacer2|StarDistance|Spacer2|Distance
+<LOResults>1|Delkar (7 A Ring) - MINED|Metallic|(Pristine) Pl(2), Mo(3), Pa(2), Rh(1), Se(3)|2800|0.0|Y
+<LOResults>2|HR 4548 (1 A Ring)|Metallic|(Major) Pl(2), Pa(1), Rh(2), Se(1)|2309|25.0|N
+<LOResults>3|CD-24 10236 (1 A Ring)|Metallic|(Depleted) Pl(2), Mo(2), Pa(4), Rh(1), Se(2)|3994|25.72|N
+<LOResults>4|Algorab (A 1 A Ring)|Metallic|(Major) Pl(1), Mo(3), Pa(1), Se(1)|145|33.69|N
+<LOResults>5|Diso (5 A Ring)|Metallic|(Depleted) Pl(3), Pa(1), Se(2)|1583|39.22|N
+<LOResults>6|Venne (4 A Ring)|Metallic|(Major) Pl(2), Mo(1)|1226|39.28|N
+<LOResults>7|Ross 467 (4 A Ring)|Metallic|(Major) Pl(1), Mo(1), Pa(4), Se(1)|469|41.39|N
+<LOResults>8|Ross 467 (6 A Ring)|Metallic|(Major) Pl(3), Mo(2), Pa(4), Rh(3), Se(2)|1126|41.39|N
+<LOResults>9|Narentes (4 A Ring)|Metallic|(Low) Pl(1)|1503|44.5|N
+<LOResults>10|49 G. Antlia (A 2 A Ring)|Metallic|(Major) Pl(1), Pa(3)|3065|46.92|N
+<LOResults>11|Tianve (3 A Ring)|Metallic|(Major) Pl(1), Mo(3), Pa(1), Rh(2)|1471|48.57|N
+<LOResults>12|BD-22 3573 (15 A Ring)|Metallic|(Major) Pl(1), Pa(2), Se(2)|5426|51.09|N
+<LOResults>13|Tiapalan (ABC 6 A Ring)|Metallic|(None) Pl(1), Pa(1), Rh(1), Se(1)|2481|51.31|N
+<LOResults>14|SAO 221526 (8 A Ring)|Metallic|(Low) Pl(1)|2016|51.79|N
+<LOResults>15|I Carinae (6 A Ring)|Metallic|(Low) Pl(2), Pa(1)|2039|52.33|N
+<LOResults>16|I Carinae (4 A Ring)|Metallic|(Low) Pl(2), Mo(3), Pa(2), Rh(1), Se(4)|1500|52.33|N
+<LOBlank>6
+<GUIKILLANIMATION>
+<switchTo:displaylocations:endSwitch>

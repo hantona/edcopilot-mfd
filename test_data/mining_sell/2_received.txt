@@ -1,0 +1,66 @@
+<LOClear>
+<LOTitle>Platinum - Highest Paying Sell Locations
+<LOStructure>NumSelector|SystemAndStation:45|Spacer1|PlatformSize|Spacer1|SpaceOrPlanet|StarDistance|Spacer2|Distance|Spacer2|Price|Spacer2|Quantity|Spacer2|LastUpdated
+<LOResults>1|Col 285 Sector CG-O d6-118 (Buckley Liberty)|L|Y|717|206.44|302844|4493|2 hours ago
+<LOResults>2|Col 285 Sector CG-O d6-118 (Ham Legacy)|M|N|717|206.44|302844|1032|8 hours ago
+<LOResults>3|Handh (The Job Centre)|L|N|1|67.53|302842|11287|1 hour ago
+<LOResults>4|LHS 3802 (White Ring)|L|N|952|95.27|294711|1838|9 hours ago
+<LOResults>5|Owaha (Stephan Depot)|L|N|422|74.59|295805|33757|1 hour ago
+<LOResults>6|Fianna (Jael's Progress)|L|N|950|46.44|293570|16374|2 hours ago
+<LOResults>7|Fianna (Marley Prospect)|L|N|1747|46.44|293570|4699|7 hours ago
+<LOResults>8|Kunti (Hughes Enterprise)|L|N|602|102.45|292428|1616|7 hours ago
+<LOResults>9|Kunti (Syromyatnikov Terminal)|M|N|853|102.45|292428|1400|19 hours ago
+<LOResults>10|Te Uira (Packard Goose)|L|N|206|95.01|292428|752|5 hours ago
+<LOResults>11|Te Uira (Highbanks)|L|N|234|95.01|292428|541|5 hours ago
+<LOResults>12|LHS 346 (Morukov Orbital)|M|N|9120|32.03|291904|1001|21 hours ago
+<LOResults>13|Jaroua (Schwarzschild Port)|L|N|240|169.12|290146|2478|9 hours ago
+<LOResults>14|Helgardu (Galiano Terminal)|L|N|7|63.33|289576|4421|19 hours ago
+<LOResults>15|CPC 20 6743 (Lyakhov Dock)|L|N|3114|100.87|289576|3379|3 hours ago
+<LOResults>16|LHS 346 (McArthur Gateway)|L|N|5021|32.03|285761|1011|1 day ago
+<LOResults>17|Wolf 363 (Pirsan Station)|L|N|1634|70.45|283869|3118|1 hour ago
+<LOResults>18|Wolf 406 (Hamilton Gateway)|L|N|3282|56.01|281836|3762|5 minutes ago
+<LOResults>19|Kapteyn's Star (Zhen Horizons)|L|N|1123|80.50|280945|15746|16 hours ago
+<LOResults>20|HIP 104026 (Tomorrow's Harvest)|L|N|2333|197.90|280942|207184|5 hours ago
+<LOResults>21|ICZ ZJ-Z b3 (Punk Sanctuary)|L|N|498|149.27|280941|284889|3 hours ago
+<LOResults>22|Crucis Sector RI-T a3-1 (Contreras Consulting)|L|Y|2566|68.74|280941|31566|6 hours ago
+<LOResults>23|Col 285 Sector HB-C b14-2 (St4r F0x's Salt Shack)|L|N|4|109.12|280941|2576|24 minutes ago
+<LOResults>24|ICZ ZJ-Z b3 (Korolyov's Progress)|L|N|709|149.27|280940|30019|10 hours ago
+<LOResults>25|Kapteyn's Star (Frost Vision)|L|N|3379|80.50|280939|19728|5 hours ago
+<LOResults>26|Col 285 Sector HC-S b5-3 (Brothers Relay)|L|N|14|357.52|280790|32820|16 hours ago
+<LOResults>27|Core Sys Sector SO-R b4-5 (Moon Landing)|L|N|523|93.15|280740|3471|23 hours ago
+<LOResults>28|Fionn (Currie Enterprise)|L|N|141|71.80|280160|4649|18 hours ago
+<LOResults>29|Ross 780 (Aristotle Gateway)|L|N|102|92.30|279875|7609|4 hours ago
+<LOResults>30|Hyades Sector OJ-E a13-3 (Otomo Vista)|L|N|1231|199.11|279168|1025|1 day ago
+<LOResults>31|Kuk (Veblen City)|L|N|12357|109.20|277877|5297|now
+<LOResults>32|Talta (MiesvanderRohe Gateway)|L|N|2411|76.93|276938|16021|31 minutes ago
+<LOResults>33|Coalsack Sector FL-Y d151 (Volterra Horizons)|L|N|3010|472.22|275463|151|1 day ago
+<LOResults>34|Sun Takush (McNair Gateway)|L|N|1393|134.00|275034|550|13 hours ago
+<LOResults>35|Asgara (Jones Dock)|L|N|1145|52.58|275024|447|1 day ago
+<LOResults>36|AD Leonis (Hickman City)|L|Y|996|78.06|273978|25031|1 day ago
+<LOResults>37|AD Leonis (Scortia Hub)|L|N|504|78.06|273977|119558|1 hour ago
+<LOResults>38|Moepirt (Thuot Orbital)|L|N|2388|60.76|271728|1096|1 day ago
+<LOResults>39|Col 285 Sector VK-N c7-18 (Castle Enterprise)|L|N|2167|251.85|271696|1665|7 hours ago
+<LOResults>40|LHS 1731 (Olympus Prime)|L|N|4259|90.15|271099|11480|6 hours ago
+<LOResults>41|Manite (Irens Dock)|L|N|1060|160.76|271045|1953|8 hours ago
+<LOResults>42|AD Leonis (Homer Platform)|L|N|996|78.06|270905|6744|15 minutes ago
+<LOResults>43|Lalande 15394 (Pailes Station)|L|N|1694|102.88|270252|1448|1 day ago
+<LOResults>44|Misir (Snyder Gateway)|L|N|1765|91.34|270094|981|5 hours ago
+<LOResults>45|WISE 1506+7027 (Borman Port)|M|N|896|87.90|269581|532|1 day ago
+<LOResults>46|Andel (Ikeda's Zenith)|L|Y|2774|85.05|288350|663|1 day ago
+<LOResults>47|Wolf 397 (Yamada's Consulting)|L|Y|414|70.89|268509|43|2 hours ago
+<LOResults>48|LHS 1731 (Elysian Fields)|L|N|449|90.15|267835|1953|1 day ago
+<LOResults>49|Scorpii Sector BG-X b1-1 (Clarity Landing)|L|N|667|97.03|267473|4133|1 day ago
+<LOResults>50|Belarsuk (Kurland Hub)|L|N|381|56.71|267295|1214|45 minutes ago
+<LOResults>51|LHS 20 (Lazutkin Terminal)|M|N|1121|112.30|267244|1083|1 day ago
+<LOResults>52|Belarsuk (Vaez de Torres Enterprise)|M|N|578|56.71|267172|874|27 minutes ago
+<LOResults>53|Iota Persei (Walker City)|L|N|458|113.98|265771|3160|4 hours ago
+<LOResults>54|Zeaex (Wheelock Settlement)|L|N|299|52.03|265683|1744|1 day ago
+<LOResults>55|Zeaex (Karl Diesel City)|M|N|135|52.03|265682|2521|19 hours ago
+<LOResults>56|Chona (Iben Orbital)|M|N|202|152.65|264389|1447|18 hours ago
+<LOResults>57|Core Sys Sector DL-Y d133 (Hertzsprung Platform)|L|N|8|44.38|264368|318|17 hours ago
+<LOResults>58|LHS 1928 (Polyakov Dock)|L|N|659|86.43|264343|2040|21 hours ago
+<LOResults>59|LHS 317 (Northrop Port)|L|N|215|31.25|264336|1113|19 minutes ago
+<LOResults>60|Chona (Smoot Station)|L|N|7|152.65|264313|1978|5 hours ago
+<LOBlank>8
+<GUIKILLANIMATION>
+<switchTo:displaylocations:endSwitch>

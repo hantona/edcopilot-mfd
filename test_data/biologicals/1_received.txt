@@ -1,0 +1,13 @@
+<EXCLEAR>Delkar|0|0|0|0
+<EXBODYHDR>Delkar 7 d (2796 ls)|(Rocky body, Thin Carbon dioxide, -111°C, 0.09g) |18,398,400|0|(prevscancount)|0|(guidance)
+<EXBODYDTL>Delkar 7 d|Bacterium Aurasus - Emerald|1,000,000| |0| |(coordclick)*FILTERED|
+<EXBODYDTL>Delkar 7 d|Tubus Compagibus - Red|7,774,700| |0| |(coordclick)*FILTERED|
+<EXBODYDTL>Delkar 7 d|Frutexa Acus - Emerald|7,774,700| |0| |(coordclick)*FILTERED|
+<EXBODYDTL>Delkar 7 d|Tussock Ignis - Lime|1,849,000| |0| |(coordclick)*FILTERED|
+<EXBODYHDR>Delkar 7 e (2794 ls)|(Rocky body, Thin Carbon dioxide, -106°C, 0.15g) |10,623,700|0|(prevscancount)|0|(guidance)
+<EXBODYDTL>Delkar 7 e|Bacterium Aurasus - Emerald|1,000,000| |0| |(coordclick)*FILTERED|
+<EXBODYDTL>Delkar 7 e|Frutexa Acus - Emerald|7,774,700| |0| |(coordclick)*FILTERED|
+<EXBODYDTL>Delkar 7 e|Tussock Ignis - Lime|1,849,000| |0| |(coordclick)*FILTERED|
+<EXBLANK>
+<EXDISPLAY>
+<GUIKILLANIMATION>

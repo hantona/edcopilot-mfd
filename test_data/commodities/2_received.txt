@@ -1,0 +1,175 @@
+<LCClear>
+<LCDetail>1|* RARES *|
+<LCDetail>2|Advanced Catalysers|
+<LCDetail>3|Advanced Medicines|
+<LCDetail>4|Agri-Medicines|
+<LCDetail>5|Agronomic Treatment|
+<LCDetail>6|Alexandrite|Refined
+<LCDetail>7|Algae|
+<LCDetail>8|Aluminium|
+<LCDetail>9|Animal Meat|
+<LCDetail>10|Animal Monitors|
+<LCDetail>11|Aquaponic Systems|
+<LCDetail>12|Articulation Motors|
+<LCDetail>13|Atmospheric Processors|
+<LCDetail>14|Auto-Fabricators|
+<LCDetail>15|Basic Medicines|
+<LCDetail>16|Bastnasite|Refined
+<LCDetail>17|Battle Weapons|
+<LCDetail>18|Bauxite|Refined
+<LCDetail>19|Beer|
+<LCDetail>20|Benitoite|Refined
+<LCDetail>21|Bertrandite|Refined
+<LCDetail>22|Beryllium|
+<LCDetail>23|Bioreducing Lichen|
+<LCDetail>24|Biowaste|
+<LCDetail>25|Bismuth|
+<LCDetail>26|Bootleg Liquor|
+<LCDetail>27|Bromellite|Refined
+<LCDetail>28|Building Fabricators|
+<LCDetail>29|CMM Composite|
+<LCDetail>30|Ceramic Composites|
+<LCDetail>31|Chemical Waste|
+<LCDetail>32|Clothing|
+<LCDetail>33|Cobalt|Refined
+<LCDetail>34|Coffee|
+<LCDetail>35|Coltan|Refined
+<LCDetail>36|Combat Stabilisers|
+<LCDetail>37|Computer Components|
+<LCDetail>38|Conductive Fabrics|
+<LCDetail>39|Consumer Technology|
+<LCDetail>40|Copper|Refined
+<LCDetail>41|Crop Harvesters|
+<LCDetail>42|Cryolite|Refined
+<LCDetail>43|Deuterium|Refined
+<LCDetail>44|Diamond|Refined
+<LCDetail>45|Domestic Appliances|
+<LCDetail>46|Emergency Power Cells|
+<LCDetail>47|Energy Grid Assembly|
+<LCDetail>48|Evacuation Shelter|
+<LCDetail>49|Exhaust Manifold|
+<LCDetail>50|Explosives|
+<LCDetail>51|Fish|
+<LCDetail>52|Food Cartridges|
+<LCDetail>53|Fruit and Vegetables|
+<LCDetail>54|Gallite|Refined
+<LCDetail>55|Gallium|
+<LCDetail>56|Geological Equipment|
+<LCDetail>57|Gold|Refined
+<LCDetail>58|Goslarite|Refined
+<LCDetail>59|Grain|
+<LCDetail>60|Grandidierite|Refined
+<LCDetail>61|H.E. Suits|
+<LCDetail>62|HN Shock Mount|
+<LCDetail>63|Haematite|Refined
+<LCDetail>64|Hafnium 178|
+<LCDetail>65|Hardware Diagnostic Sensor|
+<LCDetail>66|Heatsink Interlink|
+<LCDetail>67|Helium|Refined
+<LCDetail>68|Helium-3|Refined
+<LCDetail>69|Hydrogen Fuel|
+<LCDetail>70|Hydrogen Peroxide|Refined
+<LCDetail>71|Imperial Slaves|
+<LCDetail>72|Indite|Refined
+<LCDetail>73|Indium|
+<LCDetail>74|Insulating Membrane|
+<LCDetail>75|Ion Distributor|
+<LCDetail>76|Iridium|Refined
+<LCDetail>77|Jadeite|Refined
+<LCDetail>78|Land Enrichment Systems|
+<LCDetail>79|Landmines|
+<LCDetail>80|Lanthanum|
+<LCDetail>81|Leather|
+<LCDetail>82|Lepidolite|Refined
+<LCDetail>83|Liquid Oxygen|Refined
+<LCDetail>84|Liquor|
+<LCDetail>85|Lithium|Refined
+<LCDetail>86|Lithium Hydroxide|Refined
+<LCDetail>87|Low Temperature Diamonds|Refined
+<LCDetail>88|Magnesite|Refined
+<LCDetail>89|Magnetic Emitter Coil|
+<LCDetail>90|Marine Equipment|
+<LCDetail>91|Medical Diagnostic Equipment|
+<LCDetail>92|Meta-Alloys|
+<LCDetail>93|Methane Clathrate|Refined
+<LCDetail>94|Methanol Monohydrate Crystals|Refined
+<LCDetail>95|Micro Controllers|
+<LCDetail>96|Micro-Weave Cooling Hoses|
+<LCDetail>97|Microbial Furnaces|
+<LCDetail>98|Military Grade Fabrics|
+<LCDetail>99|Mineral Extractors|
+<LCDetail>100|Mineral Oil|
+<LCDetail>101|Modular Terminals|
+<LCDetail>102|Moissanite|Refined
+<LCDetail>103|Monazite|Refined
+<LCDetail>104|Muon Imager|
+<LCDetail>105|Musgravite|Refined
+<LCDetail>106|Nanobreakers|
+<LCDetail>107|Narcotics|
+<LCDetail>108|Natural Fabrics|
+<LCDetail>109|Neofabric Insulation|
+<LCDetail>110|Nerve Agents|
+<LCDetail>111|Non-Lethal Weapons|
+<LCDetail>112|Olivine|Refined
+<LCDetail>113|Onionhead Gamma Strain|
+<LCDetail>114|Osmium|Refined
+<LCDetail>115|Painite|Refined
+<LCDetail>116|Palladium|Refined
+<LCDetail>117|Performance Enhancers|
+<LCDetail>118|Periclase Dunite|Refined
+<LCDetail>119|Personal Weapons|
+<LCDetail>120|Pesticides|
+<LCDetail>121|Platinum|Refined
+<LCDetail>122|Platinum Alloy|
+<LCDetail>123|Polymers|
+<LCDetail>124|Power Converter|
+<LCDetail>125|Power Generators|
+<LCDetail>126|Power Transfer Bus|
+<LCDetail>127|Praseodymium|Refined
+<LCDetail>128|Progenitor Cells|
+<LCDetail>129|Pyrophyllite|Refined
+<LCDetail>130|Quartz Pyroxenite|Refined
+<LCDetail>131|Radiation Baffle|
+<LCDetail>132|Reactive Armour|
+<LCDetail>133|Reinforced Mounting Plate|
+<LCDetail>134|Resonating Separators|
+<LCDetail>135|Rhodplumsite|Refined
+<LCDetail>136|Robotics|
+<LCDetail>137|Rockforth Fertiliser|
+<LCDetail>138|Ruby|Refined
+<LCDetail>139|Rutile|Refined
+<LCDetail>140|Samarium|Refined
+<LCDetail>141|Sapphire|Refined
+<LCDetail>142|Scrap|
+<LCDetail>143|Semiconductors|
+<LCDetail>144|Serendibite|Refined
+<LCDetail>145|Silver|Refined
+<LCDetail>146|Skimmer Components|
+<LCDetail>147|Slaves|
+<LCDetail>148|Steel|
+<LCDetail>149|Structural Regulators|
+<LCDetail>150|Superconductors|
+<LCDetail>151|Surface Stabilisers|
+<LCDetail>152|Survival Equipment|
+<LCDetail>153|Synthetic Fabrics|
+<LCDetail>154|Synthetic Meat|
+<LCDetail>155|Synthetic Reagents|
+<LCDetail>156|Taaffeite|Refined
+<LCDetail>157|Tantalum|Refined
+<LCDetail>158|Tea|
+<LCDetail>159|Telemetry Suite|
+<LCDetail>160|Thallium|
+<LCDetail>161|Thermal Cooling Units|
+<LCDetail>162|Thorium|Refined
+<LCDetail>163|Thortveitite|Refined
+<LCDetail>164|Titanium|Refined
+<LCDetail>165|Tobacco|
+<LCDetail>166|Toxic Waste|
+<LCDetail>167|Tritium|Refined
+<LCDetail>168|Uraninite|Refined
+<LCDetail>169|Uranium|Refined
+<LCDetail>170|Void Opals|Refined
+<LCDetail>171|Water|Refined
+<LCDetail>172|Water Purifiers|
+<LCDetail>173|Wine|
+<LCDisplay>

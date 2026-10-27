@@ -1,0 +1,36 @@
+<BMClear>
+<BMSort>|1|0
+<BMTitle>BOOKMARKS : All|Page 1 of 23
+<BMFilter>0|+ Current route
+<BMDetail>1|Delkar|*HERE*|G  <Federation><[EM=S]><RES><SHIP><IF><VOICE>|<1d (41)|Delkar|
+<BMDetail>2|Solati|3.74 ly|K  <Federation><[EM=S]><RES><IF><VOICE>|3d (17)|Solati|
+<BMDetail>3|LHS 2477|8.44 ly|M  <Federation><[EM ALD AIS FW YG NK=E]><IF><VOICE>|32d (8)|LHS 2477|
+<BMDetail>4|LHS 2509|8.62 ly|M  <None>|10d (2)|LHS 2509|
+<BMDetail>5|Komovoy|9.42 ly|M  <Federation><[EM AIS FW YG NK=F]><RES><RMT><VOICE>|2d (9)|Komovoy|
+<BMDetail>6|Katta|13.10 ly|M  <Federation><[FW ALD AIS EM YG NK=E]><RES><IF><VOICE>|20d (2)|Katta|
+<BMDetail>7|Crucis Sector ER-V b2-5|14.68 ly|M  <Federation><[NK AIS EM FW YG=E]><VOICE>|4d (3)|Crucis Sector ER-V b2-5|
+<BMDetail>8|Helgaedi|16.52 ly|M  <Federation><[FW ALD AIS EM YG NK=F]><MMT><VOICE>|21d (1)|Helgaedi|
+<BMDetail>9|Heveri|19.47 ly|? <Federation><[FW ALD AIS EM YG NK=F]><MMT><VOICE>||Heveri|
+<BMDetail>10|Oresqu|20.21 ly|? <Independent><[EM FW NK=F]><RMT><VOICE>||Oresqu|
+<switchTo:bookmarks:endSwitch>
+<BMClear>
+<BMSort>|1|0
+<BMTitle>BOOKMARKS : All|Page 1 of 1
+<BMFilter>0|+ Current route
+<switchTo:bookmarks:endSwitch>
+<BMClear>
+<BMSort>|1|0
+<BMTitle>BOOKMARKS : All|Page 1 of 1
+<BMFilter>0|+ Current route
+<switchTo:bookmarks:endSwitch>
+<SICLEAR>
+<SIALLGROUPS>- ALL -<~>- Current Route -<~>- UNFILED -<~>Asteroid Mining<~>Bucket List<~>Colonia Bridge<~>Combat<~>Engineers<~>Exploration<~>Guardians<~>Starting out<~>Stations<~>Surface Materials<~>Thargoid Spire Sites<~>Trading
+<SIBASICCURRENT>Delkar (CURRENT LOCATION)|3 days 17 hours and 33 minutes ago|41|283,812|Federation|Industrial|Refinery|Corporate|Medium Security|Federal Reclamation Co|Expansion||Delkar|Edmund Mahon|Stronghold|0.878949~35231~156282|
+<SIFACTIONS>Movement for Delkar Revolutionary Party <N>~CivilWar~Democracy~ 14.21~Federation~Happy~15.0~~CivilWar~~~N|Delkar Company <N>~None~Corporate~  7.71~Independent~Happy~0.0~~~~~N|Freedom Party of Delkar <N>~CivilWar~Dictatorship~ 14.21~Independent~Happy~14.34~PirateAttack~CivilWar~~~N|Delkar Jet Syndicate <N>~None~Anarchy~  1.00~Independent~Happy~0.0~~~~~N|Delkar Ltd <N>~None~Corporate~  9.41~Independent~Happy~0.0~~~~~N|Federal Reclamation Co <N>~Expansion~Corporate~ 53.45~Federation~Elated~100.0~~Boom:CivilLiberty:Expansion~~~Y
+<SICONFLICTS>1~Civilwar~Active~Movement for Delkar Revolutionary Party~Crown Settlement~1~Freedom Party of Delkar~~0
+<SIGROUPS>
+<SIMINING><n><n>    Platinum : 290 tons<n>    Painite : 14 tons<n>    Palladium : 13 tons<n>    Osmium : 34 tons<n>    Gold : 4 tons<n>Delkar 7 A Ring<n>    Indite : 6 tons<n>    Platinum : 1322 tons<n>    Bertrandite : 27 tons<n>    Gallite : 22 tons<n>    Silver : 5 tons<n>    Samarium : 9 tons<n>    Palladium : 112 tons<n>    Praseodymium : 3 tons<n>    Gold : 86 tons<n>    Osmium : 209 tons<n>    Painite : 124 tons
+<SIHOTSPOTS><n>Delkar 7 A Ring : Serendibite (3), Rhodplumsite (1), Monazite (3), Platinum (2), Painite (2)
+<SISPEC><n>Interstellar Factors : Chapman Munitions Outpost (M, 3969.873895 ls)<n>Interstellar Factors : Malyarenko Expedition (M, 3969.913051 ls)<n>Interstellar Factors : Scott Biochemical Facility (S, 3956.542191 ls)
+<SISHIP><n>Ships docked in this system:<n>----------------------------<n>Docked at de Kamp Orbital:<n>   - 'Unnamed' (Cobra Mark V)<n>   - 'Unnamed' (Krait Mark II)<n>   - 'Unnamed' (Viper Mark III)<n>   - 'Unnamed' (Anaconda)<n>
+<SIDISPLAY>

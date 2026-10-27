@@ -1,0 +1,102 @@
+<LOClear>
+<LOTitle>Interstellar Factors
+<LOStructure>NumSelector|System|Spacer2|Station|Spacer2|PlatformSize|Spacer2|SpaceOrPlanet|Spacer2|StarDistance|Spacer2|Distance
+<LOResults>1|Crucis Sector HM-V b2-5|Heinlein Beacon|M|N|5|9.69
+<LOResults>2|Delkar|Chapman Munitions Outpost|M|Y|3969|0.0
+<LOResults>3|Delkar|Scott Biochemical Facility|S|Y|3962|0.0
+<LOResults>4|Solati|Meng Landing|M|Y|1230|3.74
+<LOResults>5|Solati|Porzio Mining Exploration|L|Y|3147|3.74
+<LOResults>6|Solati|Shibata Mineralogic Enterprise|L|Y|1230|3.74
+<LOResults>7|Solati|Aloisio Military Outpost|M|Y|3146|3.74
+<LOResults>8|Solati|Turay Industrial Productions|S|Y|2276|3.74
+<LOResults>9|Solati|Mao Fortification|S|Y|2280|3.74
+<LOResults>10|Panopi|Gillekens Holdings|M|N|8571|4.55
+<LOResults>11|Panopi|Smith Plant|M|N|8583|4.55
+<LOResults>12|Panopi|Ibanez Cultivation Holding|L|Y|8570|4.55
+<LOResults>13|Panopi|Parekh Genetics Institution|S|Y|9000|4.55
+<LOResults>14|Pemoeri|Heo Mineralogic Territory|S|Y|3303|5.85
+<LOResults>15|Pemoeri|Lobbo Prospecting Hub|L|Y|1314|5.85
+<LOResults>16|Pemoeri|Sakurai Extraction Base|S|Y|1319|5.85
+<LOResults>17|Pemoeri|Moy Chemical Works|M|Y|1318|5.85
+<LOResults>18|LTT 4497|Zelenko Extraction Prospect|L|Y|4183|7.04
+<LOResults>19|LTT 4497|Lyashenko's Claim|S|Y|4219|7.04
+<LOResults>20|LTT 4497|Gantt Port|M|N|4115|7.04
+<LOResults>21|LTT 4497|Merchiston Arsenal|L|Y|2416|7.04
+<LOResults>22|LTT 4497|Clayton Research Forum|S|Y|4185|7.04
+<LOResults>23|LTT 4497|Collinson Manufacturing Facility|M|Y|4214|7.04
+<LOResults>24|LTT 4497|Getsyk Mining Base|S|Y|4213|7.04
+<LOResults>25|LTT 4497|Hopper Relay|L|Y|4228|7.04
+<LOResults>26|LTT 4497|Sano Manufacturing Installation|L|Y|2474|7.04
+<LOResults>27|LTT 4497|Sugiyama Hydroponics Holdings|S|Y|4209|7.04
+<LOResults>28|LTT 4497|Orakpo Industrial Facility|L|Y|4202|7.04
+<LOResults>29|LTT 4497|Sangweni Engineering Complex|M|Y|4223|7.04
+<LOResults>30|LTT 4497|Barbeau Mineralogic Installation|M|Y|4232|7.04
+<LOResults>31|LTT 4497|Jang Agricultural Estate|S|Y|4213|7.04
+<LOResults>32|LTT 4497|Vidal Mineralogic Facility|S|Y|4194|7.04
+<LOResults>33|LTT 4497|Ferreira's Manufacturings|M|Y|2465|7.04
+<LOResults>34|LTT 4497|Klein Excavation Complex|S|Y|4188|7.04
+<LOResults>35|LTT 4497|Boumal Drilling Base|M|Y|4201|7.04
+<LOResults>36|LTT 4497|Diaw's Works|S|Y|2443|7.04
+<LOResults>37|LHS 2477|Mach Vision|M|N|145|8.44
+<LOResults>38|LHS 2477|Phillips Mines|M|N|155|8.44
+<LOResults>39|LHS 2477|Otsuka Mineralogic Exploration|S|Y|203|8.44
+<LOResults>40|LHS 2477|Guo Synthetics Site|S|Y|44644|8.44
+<LOResults>41|LHS 2477|Hyeon Biochemical Centre|L|Y|2681|8.44
+<LOResults>42|LHS 2477|Heinrich Botanics|S|Y|170|8.44
+<LOResults>43|LHS 2477|Piazza's Engineering|S|Y|2682|8.44
+<LOResults>44|LHS 2477|Banerjee Cultivation Hub|L|Y|209|8.44
+<LOResults>45|LHS 2477|Du Mineralogic Claim|S|Y|221|8.44
+<LOResults>46|LHS 2477|Jimenez's Quarry|L|Y|191|8.44
+<LOResults>47|LHS 2477|Seol Agricultural Collection|S|Y|156|8.44
+<LOResults>48|LHS 2477|Pomeroy Mining Prospect|L|Y|205|8.44
+<LOResults>49|LHS 2477|Maruyama Industrial Hub|S|Y|1071|8.44
+<LOResults>50|LHS 2477|Farrow Prospecting Site|L|Y|225|8.44
+<LOResults>51|LHS 2477|Vincent Drilling Station|S|Y|207|8.44
+<LOResults>52|LHS 2477|Tarasenko Extraction Facility|S|Y|150|8.44
+<LOResults>53|Codorain|Yoshida Astrophysics Enterprise|S|Y|220|8.84
+<LOResults>54|LTT 4487|Gubarev Installation|M|N|456|10.16
+<LOResults>55|LTT 4487|Grabe's Folly|L|Y|1789|10.16
+<LOResults>56|LTT 4487|Drach Botanical Range|S|Y|328|10.16
+<LOResults>57|LTT 4487|Baltazar Research Laboratory|S|Y|1680|10.16
+<LOResults>58|LTT 4487|Otero Botanical Nursery|L|Y|462|10.16
+<LOResults>59|LTT 4487|Fellows Horticultural Biome|L|Y|605|10.16
+<LOResults>60|LTT 4487|Levada Analysis Centre|S|Y|2303|10.16
+<LOResults>61|LTT 4487|Borman Colony|M|N|327|10.16
+<LOResults>62|LTT 4487|Biswas Cultivation Range|L|Y|605|10.16
+<LOResults>63|LTT 4487|Piazza Biological Consulting|L|Y|1710|10.16
+<LOResults>64|LTT 4487|Levada Horticultural Estate|L|Y|462|10.16
+<LOResults>65|LTT 4487|Kulkarni Hydroponics Nursery|L|Y|463|10.16
+<LOResults>66|LTT 4487|Jung Cultivation Range|L|Y|463|10.16
+<LOResults>67|LTT 4487|Schulte Manufacturing Exchange|L|Y|1790|10.16
+<LOResults>68|LTT 4487|Jae's Exploration|L|Y|1747|10.16
+<LOResults>69|LTT 4487|Tracy Cultivation Exchange|S|Y|603|10.16
+<LOResults>70|LTT 4487|Chisholm Horticultural Estate|S|Y|1747|10.16
+<LOResults>71|LTT 4487|Webb Horticultural Enterprise|S|Y|462|10.16
+<LOResults>72|LTT 4487|Nwadike Horticultural Biome|S|Y|330|10.16
+<LOResults>73|LTT 4487|Bockarie Horticultural Farm|S|Y|462|10.16
+<LOResults>74|LTT 4487|Pidmohylny Research Institution|S|Y|3355|10.16
+<LOResults>75|LTT 4487|Tanaka Chemical Complex|S|Y|1712|10.16
+<LOResults>76|LTT 4487|Lagos Industrial Holdings|L|Y|1784|10.16
+<LOResults>77|LTT 4487|Cortes Biological Site|L|Y|2311|10.16
+<LOResults>78|LTT 4487|Potter Analytics Enterprise|L|Y|604|10.16
+<LOResults>79|LTT 4487|Ariss Astrophysics Enterprise|L|Y|1739|10.16
+<LOResults>80|LTT 4487|Han Biological Forum|L|Y|1763|10.16
+<LOResults>81|LTT 4487|Seok Nutrition Biosphere|S|Y|462|10.16
+<LOResults>82|LTT 4487|Thordarson Astrophysics Lab|S|Y|2320|10.16
+<LOResults>83|LTT 4487|Sakurai Cultivation Collection|L|Y|602|10.16
+<LOResults>84|LTT 4487|Joo Botanical Range|S|Y|464|10.16
+<LOResults>85|LTT 4487|Leonard's Mineralogical|L|Y|1747|10.16
+<LOResults>86|LTT 4487|Karpenko Chemical Enterprise|L|Y|1733|10.16
+<LOResults>87|LTT 4487|Pak Astrophysics Lab|L|Y|2325|10.16
+<LOResults>88|LTT 4487|Senior Drilling Complex|S|Y|1750|10.16
+<LOResults>89|LTT 4487|Leiva's Farm|S|Y|462|10.16
+<LOResults>90|LTT 4487|Remy Astrophysics Site|L|Y|1747|10.16
+<LOResults>91|LTT 4487|Baudelaire's Biosphere|S|Y|330|10.16
+<LOResults>92|LTT 4487|Fra Hydroponics Facility|L|Y|1716|10.16
+<LOResults>93|LTT 4487|Laister's Biochemicals|L|Y|1695|10.16
+<LOResults>94|LTT 4487|Wallis's Consulting|S|Y|1716|10.16
+<LOResults>95|LTT 4487|Leiva Laboratory|L|Y|2328|10.16
+<LOResults>96|Lapannodaya|Zhen Colony|M|N|11345|11.13
+<LOBlank>6
+<GUIKILLANIMATION>
+<switchTo:displaylocations:endSwitch>

@@ -1,0 +1,63 @@
+<BYClear>
+<BYTitle>Bodies in Delkar
+<BYDetail>C-DANGER|1|Delkar|G (White-Yellow) Star|N/A|-||-||||
+<BYDetail>C-HIGH|2|      Delkar 1|Metal-rich body|1.3|1||25|||19 $PlanetaryMiningLocation_Name,2 Geological,17 Human|
+<BYDetail>C-HIGH|3|      Delkar 2|High metal content|1.19|||45|||13 $PlanetaryMiningLocation_Name,3 Geological,5 Human|
+<BYDetail>C-HIGH|4|      Delkar 3|High metal content|2.09|||80|||11 $PlanetaryMiningLocation_Name,3 Geological,1 Human|
+<BYDetail>disp||      Invergary|Coriolis Starport (L)||11||533||||
+<BYDetail>disp||      de Kamp Orbital|Orbis Starport (L)||45||535||||
+<BYDetail>C|5|      Savo|Earth-like world|1.03|-||535|||3 Human|Thick Suitable for water-based life
+<BYDetail>disp||          Stronghold Carrier|Planetary Outpost (L)||||535||||
+<BYDetail>C-HIGH|6|         Anamundi|Rocky body|0.36|||534|||12 $PlanetaryMiningLocation_Name,17 Human|
+<BYDetail>disp||            Yang Botanical Market|Settlement (L)||||522||||
+<BYDetail>disp||            Barbeau Botanical Garden|Settlement (S)||||524||||
+<BYDetail>disp||            Moore Manufacturing Base|Settlement (S)||||527||||
+<BYDetail>disp||            Caillie Landing|Planetary Outpost (L)||6||534||||
+<BYDetail>disp||            Rodgers Cultivation Biosphere|Settlement (L)||1||534||||
+<BYDetail>C|7|      Delkar 5|Gas giant with water-based life|1.04|-||1,169|||2 Human|
+<BYDetail>C-HIGH|8|         Delkar 5 a|Rocky body|0.05|||1,173|||10 $PlanetaryMiningLocation_Name,3 Human|
+<BYDetail>disp||            Melo Synthetics Assembly|Settlement (S)||2||1,165||||
+<BYDetail>disp||            Kawle Mining Enterprise|Settlement (L)||||1,166||||
+<BYDetail>disp||            Navarro's Constructions|Settlement (L)||||1,169||||
+<BYDetail>C|9|      Delkar 6|Class III gas giant|23.88|-||2,034|||3 Human|
+<BYDetail>C|10|         Delkar 6 a|Icy body|0.32|-||2,087|||1 Human|Thick Argon-rich
+<BYDetail>C|11|      Delkar 7|Class III gas giant|9.5|-||2,800|||6 Human|
+<BYDetail>C-HIGH|12|         Delkar 7 a|Rocky body|0.09|||2,799|||15 $PlanetaryMiningLocation_Name,3 Geological,17 Human|
+<BYDetail>disp||            Schunmann Command Facility|Settlement (M)||||2,799||||
+<BYDetail>disp||            Zyma Military Complex|Settlement (L)||||2,800||||
+<BYDetail>disp||            Lavoie Synthetics Exchange|Settlement (L)||||2,801||||
+<BYDetail>C-HIGH|13|         Delkar 7 b|Rocky body|0.1|||2,803|||17 $PlanetaryMiningLocation_Name,11 Human|
+<BYDetail>disp||            Imai Chemical Workshop|Settlement (S)||||2,798||||
+<BYDetail>disp||            Uniyal Dredging Exchange|Settlement (L)||||2,799||||
+<BYDetail>disp||            Durand's Foundry|Settlement (S)||||2,805||||
+<BYDetail>C|14|         Delkar 7 c|Rocky body|0.1|-||2,797|||3 Human|Carbon dioxide
+<BYDetail>C-HIGH|15|         Delkar 7 d|Rocky body|0.09|1||2,796|||16 $PlanetaryMiningLocation_Name,4 Biological,5 Human|Thin Carbon dioxide
+<BYDetail>disp||            Zyma Genetics Centre|Settlement (S)||||2,797||||
+<BYDetail>disp||            Cox Mining Rigs|Settlement (L)||1||2,805||||
+<BYDetail>C-HIGH|16|         Delkar 7 e|Rocky body|0.15|||2,794|||15 $PlanetaryMiningLocation_Name,3 Biological,5 Human|Thin Carbon dioxide
+<BYDetail>disp||            Ortiz Astrophysics Forum|Settlement (S)||||2,794||||
+<BYDetail>C|17|      Delkar 8|Icy body|2.14|-||2,890|||2 Human|Hot thick Water
+<BYDetail>C|18|      Delkar 9|Class I gas giant|2.32|-||3,957|||8 Human|
+<BYDetail>C-HIGH|19|         Delkar 9 a|Icy body|0.08|||3,957|||21 $PlanetaryMiningLocation_Name,2 Geological,3 Human|
+<BYDetail>disp||            Adeyemi Analytics Enterprise|Settlement (L)||||3,958||||
+<BYDetail>disp||            Dynamo's Quarry|Settlement (L)||||3,964||||
+<BYDetail>C-HIGH|20|         Delkar 9 b|Icy body|0.07|||3,955|||12 $PlanetaryMiningLocation_Name,4 Human|
+<BYDetail>disp||            Xie Defence Outpost|Settlement (M)||||3,955||||
+<BYDetail>disp||            Bustos Biochemical Facility|Settlement (S)||2||3,957||||
+<BYDetail>disp||            Ferraro Resolve|Settlement (L)||||3,959||||
+<BYDetail>C-HIGH|21|         Delkar 9 c|Icy body|0.08|||3,951|||23 $PlanetaryMiningLocation_Name,5 Human|
+<BYDetail>disp||            Kulkarni Defence Installation|Settlement (M)||||3,959||||
+<BYDetail>disp||            Shvets Metallurgic Platform|Settlement (S)||||3,964||||
+<BYDetail>disp||            Guzman Research Forum|Settlement (S)||||3,968||||
+<BYDetail>C-HIGH|22|         Delkar 9 d|Icy body|0.08|1||3,953|||8 $PlanetaryMiningLocation_Name,3 Human|
+<BYDetail>disp||            Knapper's Fortification|Settlement (M)||1||3,960||||
+<BYDetail>disp||            Malik's Arsenal|Settlement (M)||1||3,967||||
+<BYDetail>C-HIGH|23|         Delkar 9 e|Icy body|0.07|||3,962|||27 $PlanetaryMiningLocation_Name,5 Human|
+<BYDetail>disp||            Scott Biochemical Facility|Settlement (S)||0||3,956||||
+<BYDetail>disp||            Goswami Drilling Exploration|Settlement (L)||||3,969||||
+<BYDetail>disp||            Chapman Munitions Outpost|Settlement (M)||0||3,969||||
+<BYDetail>disp||            Malyarenko Expedition|Settlement (M)||1||3,969||||
+<BYDetail>C|24|      Delkar 10|Icy body|3.38|-||3,961|||2 Human|Thick Helium
+<BYDetail>C|25|      Delkar 11|Icy body|2.91|-||5,475|||1 Human|Helium
+<BYBlank>
+<BYDisplay>

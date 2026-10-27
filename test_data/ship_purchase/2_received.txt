@@ -1,0 +1,51 @@
+<LSClear>
+<LSDetail>1|Adder
+<LSDetail>2|Alliance Challenger
+<LSDetail>3|Alliance Chieftain
+<LSDetail>4|Alliance Crusader
+<LSDetail>5|Anaconda
+<LSDetail>6|Anaconda Mark II
+<LSDetail>7|Asp Explorer
+<LSDetail>8|Asp Scout
+<LSDetail>9|Beluga Liner
+<LSDetail>10|Caspian Explorer
+<LSDetail>11|Cobra Mark III
+<LSDetail>12|Cobra Mark IV
+<LSDetail>13|Cobra Mark V
+<LSDetail>14|Corsair
+<LSDetail>15|Diamondback Explorer
+<LSDetail>16|Diamondback Scout
+<LSDetail>17|Dolphin
+<LSDetail>18|Eagle Mark II
+<LSDetail>19|Federal Assault Ship
+<LSDetail>20|Federal Corvette
+<LSDetail>21|Federal Dropship
+<LSDetail>22|Federal Gunship
+<LSDetail>23|Fer De Lance
+<LSDetail>24|Hauler
+<LSDetail>25|Imperial Clipper
+<LSDetail>26|Imperial Courier
+<LSDetail>27|Imperial Cutter
+<LSDetail>28|Imperial Eagle
+<LSDetail>29|Keelback
+<LSDetail>30|Kestrel Mark II
+<LSDetail>31|Krait Mark II
+<LSDetail>32|Krait Phantom
+<LSDetail>33|Lynx Highliner
+<LSDetail>34|Mamba
+<LSDetail>35|Mandalay
+<LSDetail>36|Orca
+<LSDetail>37|Panther Clipper Mark II
+<LSDetail>38|Python
+<LSDetail>39|Python Mark II
+<LSDetail>40|Sidewinder Mark 1
+<LSDetail>41|Type-10 Defender
+<LSDetail>42|Type-11 Prospector
+<LSDetail>43|Type-6 Transporter
+<LSDetail>44|Type-7 Transporter
+<LSDetail>45|Type-8 Transporter
+<LSDetail>46|Type-9 Heavy
+<LSDetail>47|Viper Mark III
+<LSDetail>48|Viper Mark IV
+<LSDetail>49|Vulture
+<LSDisplay>

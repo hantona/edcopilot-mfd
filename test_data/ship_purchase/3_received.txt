@@ -1,0 +1,80 @@
+<LOClear>
+<LOTitle>Shipyards - Asp Explorer
+<LOStructure>NumSelector|SystemAndStation|Spacer2|PlatformSize|Spacer2|SpaceOrPlanet|Spacer2|StarDistance|Spacer2|Distance
+<LOResults>1|Delkar (de Kamp Orbital) (-20% Cargo racks, Hull reinforcements)|L|N|535|0.0
+<LOResults>2|Delkar (Stronghold Carrier) (-20% Cargo racks, Hull reinforcements)|L|N|535|0.0
+<LOResults>3|Komovoy (Silves Dock) (-20% Cargo racks, Hull reinforcements)|L|N|6|9.42
+<LOResults>4|Crucis Sector AL-X b1-5 (Arc City)|L|N|107301|13.86
+<LOResults>5|Crucis Sector ER-V b2-5 (Cjm Rustrel Colorado Dock)|L|N|1819|14.68
+<LOResults>6|LDS 413 (Gemar Terminal)|L|N|36702|14.83
+<LOResults>7|Crucis Sector ER-V b2-2 (Hully Territory)|L|Y|1239|15.59
+<LOResults>8|Crucis Sector ER-V b2-2 (Piazza Market)|L|Y|1554|15.59
+<LOResults>9|Crucis Sector ER-V b2-2 (Solitude's Embrace Of Melancholy)|L|N|2852|15.59
+<LOResults>10|Polus (Wilson Port)|L|N|389|16.51
+<LOResults>11|Helgaedi (Joliot-Curie Enterprise)|L|N|358|16.52
+<LOResults>12|Aeneas (Russo Ring)|L|N|2120|17.22
+<LOResults>13|LP 470-65 (Schrodinger City)|L|N|1328|17.66
+<LOResults>14|Minarii (Ferguson Horizons)|L|N|207|17.83
+<LOResults>15|Stykyr (Zacc's Frontier)|L|N|10|18.06
+<LOResults>16|Albangage (Bennett Port)|L|N|885|18.61
+<LOResults>17|Crucis Sector FM-V b2-1 (Carnegie City)|L|Y|50|18.62
+<LOResults>18|Crucis Sector FM-V b2-1 (Hahn Town)|L|N|90|18.62
+<LOResults>19|LTT 4428 (Dunbar Ring)|L|N|19815|19.05
+<LOResults>20|Heveri (Wiberg Hub)|L|N|8|19.47
+<LOResults>21|Crucis Sector ER-V b2-0 (Saber84 Memorial)|L|N|1813|19.49
+<LOResults>22|Crucis Sector YE-A d101 (Carroll City)|L|N|10|19.49
+<LOResults>23|Crucis Sector YE-A d101 (Kennan's Pride)|L|N|10|19.49
+<LOResults>24|Mbambiva (Stronghold Carrier)|L|N|248|20.02
+<LOResults>25|HR 4979 (Sanctus Mechanicus Ana (X3N-1KV))|L|N|52|20.23
+<LOResults>26|Crucis Sector FR-V b2-1 (The Red Right Hand) (-20% Cargo racks, Hull reinforcements)|L|N|1|20.59
+<LOResults>27|Crucis Sector FR-V b2-1 (Sem's Illicit Husbandry Facility) (-20% Cargo racks, Hull reinforcements)|L|Y|557|20.59
+<LOResults>28|Crucis Sector FR-V b2-1 (Redan's Arcane Spire) (-20% Cargo racks, Hull reinforcements)|L|Y|565|20.59
+<LOResults>29|Crucis Sector FR-V b2-1 (Void Orbital) (-20% Cargo racks, Hull reinforcements)|L|N|566|20.59
+<LOResults>30|Crucis Sector FR-V b2-1 (Redan's Frozen Throne) (-20% Cargo racks, Hull reinforcements)|L|N|1528|20.59
+<LOResults>31|Shinrarta Dezhra (Jameson Memorial) (-10%)|L|N|324|20.94
+<LOResults>32|17 Crateris (Al-Jazari Port)|L|N|227|21.66
+<LOResults>33|Crucis Sector YE-A d99 (Paine Beacon)|L|N|8|22.82
+<LOResults>34|Gluscap (Clark Hub)|L|N|2349|22.83
+<LOResults>35|LFT 926 (Stronghold Carrier)|L|N|3539|23.04
+<LOResults>36|NLTT 26813 (Rutten Works)|L|Y|1603|23.76
+<LOResults>37|NLTT 26813 (Petlura Facility)|L|Y|2732|23.76
+<LOResults>38|NLTT 26813 (Temple Of Doom)|L|N|2736|23.76
+<LOResults>39|NLTT 26813 (Augar Depot)|L|Y|2736|23.76
+<LOResults>40|CD-35 6972 (Papin Terminal)|L|N|26|24.31
+<LOResults>41|Korro Kung (Lonchakov Orbital)|L|N|622631|24.42
+<LOResults>42|Crucis Sector CW-V b2-4 (Anor Londo)|L|N|145885|24.56
+<LOResults>43|LP 547-159 (Martin Gateway)|L|N|309|24.96
+<LOResults>44|Sukuruaco (Stronghold Carrier)|L|N|13|25.35
+<LOResults>45|Qutiri (Qutiri Memorial Archive)|L|N|7|25.80
+<LOResults>46|Nuenets (Laliberte Enterprise)|L|N|9229|25.80
+<LOResults>47|Nuenets (Shriver Hub)|L|N|9256|25.80
+<LOResults>48|Har Itari (Garneau Hub)|L|N|432248|26.80
+<LOResults>49|Har Itari (Mohri Terminal)|L|N|432289|26.80
+<LOResults>50|Crucis Sector CW-V b2-5 (Maxwell Landing)|L|N|4|26.82
+<LOResults>51|Gacrux (Ramanujan Terminal)|L|N|997|27.38
+<LOResults>52|Gacrux (Schrodinger Dock)|L|N|3127|27.38
+<LOResults>53|Gacrux (Fairbairn Station)|L|N|4331|27.38
+<LOResults>54|LP 855-14 (Hughes's Folly)|L|N|16360|27.98
+<LOResults>55|LP 855-14 (Frost Watch)|L|Y|16388|27.98
+<LOResults>56|Aasgay (Solovyev Hub)|L|N|76|28.15
+<LOResults>57|Timbalderis (Levi-Montalcini Gateway)|L|N|2854|28.24
+<LOResults>58|LTT 4312 (Midgeley Gateway)|L|N|151|28.47
+<LOResults>59|Bevan's Hope (Stronghold Carrier)|L|N|292|28.50
+<LOResults>60|LTT 4131 (Lorrah Terminal) (-20% Cargo racks, Hull reinforcements)|L|N|85|28.71
+<LOResults>61|LTT 4131 (Moskowitz Ring) (-20% Cargo racks, Hull reinforcements)|L|N|85|28.71
+<LOResults>62|LTT 4131 (Deere Installation) (-20% Cargo racks, Hull reinforcements)|L|Y|85|28.71
+<LOResults>63|LTT 4131 (Popper Station) (-20% Cargo racks, Hull reinforcements)|L|N|21176|28.71
+<LOResults>64|CD-30 9687 (Savitskaya Ring)|L|N|2416|28.79
+<LOResults>65|Crucis Sector YP-X b1-1 (Lt. Col. Vem Ahlers Memorial)|L|N|170|28.86
+<LOResults>66|Crucis Sector YP-X b1-1 (Sws Resort Port)|L|Y|534|28.86
+<LOResults>67|Crucis Sector YP-X b1-1 (Young Station)|L|Y|707|28.86
+<LOResults>68|Blenu (Potrykus Orbital)|L|N|1586|29.05
+<LOResults>69|Yorates (Lichtenberg Gateway)|L|N|11|29.49
+<LOResults>70|Nanditi (Hale Orbital)|L|N|418|29.50
+<LOResults>71|Crucis Sector FW-W c1-25 (Zamka Enterprise)|L|N|33447|29.72
+<LOResults>72|LTT 4728 (Rorschach Enterprise)|L|N|7|29.80
+<LOResults>73|CD-35 9019 (Brahe Gateway) (-20% Cargo racks, Hull reinforcements)|L|N|109|30.02
+<LOResults>74|CD-35 9019 (Ham Terminal) (-20% Cargo racks, Hull reinforcements)|L|N|182|30.02
+<LOBlank>5
+<GUIKILLANIMATION>
+<switchTo:displaylocations:endSwitch>

@@ -1,0 +1,38 @@
+<STClear>Delkar
+<STTitle>Stations in Delkar|(0.0 ly from current location)
+<STDetail>1   |Yang Botanical Market|Settlement|      522|     |L|Y|    |                                  
+<STDetail>2   |Barbeau Botanical Garden|Settlement|      524|     |S|Y|    |RF RP                BM        MKT
+<STDetail>3   |Moore Manufacturing Base|Settlement|      527|     |S|Y|    |RF RP                BM        MKT
+<STDetail>4   |Invergary|Coriolis Starport|      533| 11  |L|N|n/a |RF RP RA                 OF SY MKT
+<STDetail>5   |Caillie Landing|Planetary Outpost|      534|  6  |L|Y|n/a |RF RP RA                 OF    MKT
+<STDetail>6   |Rodgers Cultivation Biosphere|Settlement|      534|  1  |L|Y|    |RF RP                          MKT
+<STDetail>7   |de Kamp Orbital|Orbis Starport|      535| 45  |L|N|Seen|RF RP RA                 OF SY MKT
+<STDetail>8   |Stronghold Carrier|Planetary Outpost|      535|     |L|Y|    |RF RP RA                 OF SY MKT
+<STDetail>9   |Melo Synthetics Assembly|Settlement|    1,165|  2  |S|Y|n/a |RF RP                          MKT
+<STDetail>10  |Kawle Mining Enterprise|Settlement|    1,166|     |L|Y|    |RF RP                          MKT
+<STDetail>11  |Navarro's Constructions|Settlement|    1,169|     |L|Y|    |RF RP                          MKT
+<STDetail>12  |Ortiz Astrophysics Forum|Settlement|    2,794|     |S|Y|    |RF RP                          MKT
+<STDetail>13  |Zyma Genetics Centre|Settlement|    2,797|     |S|Y|    |                                  
+<STDetail>14  |Imai Chemical Workshop|Settlement|    2,798|     |S|Y|    |RF RP                          MKT
+<STDetail>15  |Schunmann Command Facility|Settlement|    2,799|     |M|Y|    |RF RP RA                       MKT
+<STDetail>16  |Uniyal Dredging Exchange|Settlement|    2,799|     |L|Y|    |RF RP                          MKT
+<STDetail>17  |Zyma Military Complex|Settlement|    2,800|     |L|Y|    |RF RP RA                       MKT
+<STDetail>18  |Lavoie Synthetics Exchange|Settlement|    2,801|     |L|Y|    |                                  
+<STDetail>19  |Cox Mining Rigs|Settlement|    2,805|  1  |L|Y|    |RF RP                          MKT
+<STDetail>20  |Durand's Foundry|Settlement|    2,805|     |S|Y|    |RF RP                BM        MKT
+<STDetail>21  |Xie Defence Outpost|Settlement|    3,955|     |M|Y|    |RF RP RA                       MKT
+<STDetail>22  |Scott Biochemical Facility|Settlement|    3,956|     |S|Y|    |RF RP          IF    BM        MKT
+<STDetail>23  |Bustos Biochemical Facility|Settlement|    3,957|  2  |S|Y|    |RF RP                          MKT
+<STDetail>24  |Adeyemi Analytics Enterprise|Settlement|    3,958|     |L|Y|    |RF RP                          MKT
+<STDetail>25  |Ferraro Resolve|Settlement|    3,959|     |L|Y|    |RF RP RA                       MKT
+<STDetail>26  |Kulkarni Defence Installation|Settlement|    3,959|     |M|Y|    |RF RP RA             BM        MKT
+<STDetail>27  |Knapper's Fortification|Settlement|    3,960|  1  |M|Y|n/a |RF RP RA                       MKT
+<STDetail>28  |Shvets Metallurgic Platform|Settlement|    3,964|     |S|Y|    |RF RP                          MKT
+<STDetail>29  |Dynamo's Quarry|Settlement|    3,964|     |L|Y|    |RF RP                          MKT
+<STDetail>30  |Malik's Arsenal|Settlement|    3,967|  1  |M|Y|n/a |RF RP RA                       MKT
+<STDetail>31  |Guzman Research Forum|Settlement|    3,968|     |S|Y|    |RF RP                          MKT
+<STDetail>32  |Goswami Drilling Exploration|Settlement|    3,969|     |L|Y|    |RF RP                BM        MKT
+<STDetail>33  |Chapman Munitions Outpost|Settlement|    3,969|     |M|Y|    |RF RP RA       IF    BM        MKT
+<STDetail>34  |Malyarenko Expedition|Settlement|    3,969|  1  |M|Y|n/a |RF RP RA                       MKT
+<STBlank>
+<STDISPLAY>

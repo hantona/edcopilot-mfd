@@ -1,0 +1,81 @@
+<LOClear>
+<LOTitle>Outfitters - 0D Frame Shift Wake Scanner
+<LOStructure>NumSelector|SystemAndStation|Spacer2|PlatformSize|Spacer2|SpaceOrPlanet|Spacer2|StarDistance|Spacer2|Distance
+<LOResults>1|Chonti (Hadid Vision)|L|N|24|18.67
+<LOResults>2|HIP 75813 (Bean Sanctuary)|L|N|3436|10.48
+<LOResults>3|HIP 83247 (McDermott Arsenal)|L|Y|2691|12.61
+<LOResults>4|Col 285 Sector KO-Z a43-3 (Aloha)|L|N|1390|15.09
+<LOResults>5|Col 285 Sector NU-X a44-2 (Gloss Vision)|L|N|369|17.60
+<LOResults>6|Col 285 Sector NU-X a44-2 (Guidoni Sanctuary)|L|N|789|17.60
+<LOResults>7|HIP 85297 (Giraud Gateway)|L|N|74382|17.84
+<LOResults>8|HIP 73408 (Bennett Dock)|L|N|2509|18.00
+<LOResults>9|Col 285 Sector SA-W a45-1 (Evans'  Progress)|L|N|741|18.24
+<LOResults>10|Col 285 Sector SA-W a45-1 (Glyndwr Settlement)|L|N|2646|18.24
+<LOResults>11|Chonti (Besonders Landing)|L|Y|24|18.67
+<LOResults>12|HIP 74405 (Lundmark Dock)|L|N|1926|19.78
+<LOResults>13|HIP 87638 (Holden Terminal)|L|Y|3362|20.87
+<LOResults>14|Col 285 Sector AG-E c12-12 (Kurland Barracks)|L|N|8|21.36
+<LOResults>15|Col 285 Sector AG-E c12-12 (Jemison's Inheritance)|L|N|564|21.36
+<LOResults>16|Col 285 Sector AG-E c12-12 (Diamond Assembly)|L|Y|799|21.36
+<LOResults>17|Col 285 Sector AG-E c12-12 (Cosmatos Terminal)|M|N|16580|21.36
+<LOResults>18|Argel (Godwin Point)|L|Y|248|21.55
+<LOResults>19|Col 285 Sector CG-O d6-133 (Aldrin Reach)|L|N|25|21.80
+<LOResults>20|Col 285 Sector XP-L b22-9 (Hubble Legacy)|L|N|3474|21.88
+<LOResults>21|Col 285 Sector PF-W a45-2 (Tolstoi's Inheritance)|L|N|1500|22.37
+<LOResults>22|Col 285 Sector PF-W a45-2 (Dobzhansky Depot)|L|N|1510|22.37
+<LOResults>23|Col 285 Sector IT-Z a43-6 (Hollin Gate)|L|N|1|22.51
+<LOResults>24|Col 285 Sector IT-Z a43-6 (Farpoint Station)|L|Y|2754|22.51
+<LOResults>25|Yan Musu (Stronghold Carrier)|L|N|199|22.59
+<LOResults>26|Yan Musu (Norman Barracks)|L|Y|570|22.59
+<LOResults>27|Col 285 Sector WG-U a46-0 (Cleaver Hub)|L|N|1647|24.47
+<LOResults>28|Col 285 Sector KZ-X a44-2 (Tsukamoto Terminal)|L|N|371|24.81
+<LOResults>29|Col 285 Sector KZ-X a44-2 (Fukushima Vision)|L|N|521|24.81
+<LOResults>30|Col 285 Sector KZ-X a44-2 (Kudo Horizons)|L|N|638|24.81
+<LOResults>31|Col 285 Sector KZ-X a44-2 (Otueome Sanctuary)|L|Y|638|24.81
+<LOResults>32|Nungk (Arai Orbital)|L|N|256|24.98
+<LOResults>33|Nungk (Shawl Depot)|L|Y|1466|24.98
+<LOResults>34|Chert (Bohr Terminal)|L|N|62|25.17
+<LOResults>35|HIP 73244 (Hoffman Enterprise)|L|N|191|25.22
+<LOResults>36|HIP 73244 (Menezes Keep)|L|Y|2436|25.22
+<LOResults>37|Col 285 Sector IT-Z a43-5 (James Binnie Memorial)|L|N|1105|25.47
+<LOResults>38|Col 285 Sector CG-O d6-61 (Elanjian Gateway)|L|N|7|25.51
+<LOResults>39|Col 285 Sector ZA-K b23-3 (Kobayashi Silo)|L|N|7|25.56
+<LOResults>40|Col 285 Sector ZA-K b23-3 (Bok Installation)|M|N|5178|25.56
+<LOResults>41|Caereda (Farouk Penal colony)|L|Y|913|25.65
+<LOResults>42|Caereda (Hirayama Installation)|L|Y|1271|25.65
+<LOResults>43|Col 285 Sector MZ-X a44-1 (Chief Industries)|L|N|3|25.89
+<LOResults>44|Col 285 Sector MZ-X a44-1 (Rhokars Freeport)|L|N|452|25.89
+<LOResults>45|Col 285 Sector MZ-X a44-1 (Hollys Memento Paradisus)|L|N|782|25.89
+<LOResults>46|Col 285 Sector MZ-X a44-1 (Tito City)|L|N|74112|25.89
+<LOResults>47|Col 285 Sector CG-O d6-62 (Saladin Prospect)|M|N|9|25.96
+<LOResults>48|Col 285 Sector CG-O d6-62 (Church Of Starry Wisdom)|L|N|15|25.96
+<LOResults>49|Col 285 Sector CG-O d6-62 (Ultima Thule)|L|N|1195|25.96
+<LOResults>50|Col 285 Sector CG-O d6-62 (Marsh Refinery)|L|N|1197|25.96
+<LOResults>51|Col 285 Sector CG-O d6-62 (Yuggoth Fungal Research Facility)|L|Y|1638|25.96
+<LOResults>52|Col 285 Sector CG-O d6-62 (Khufu Enterprise)|L|Y|1642|25.96
+<LOResults>53|Col 285 Sector CG-O d6-62 (Eye Of Nyarlathotep)|L|N|1644|25.96
+<LOResults>54|Col 285 Sector CG-O d6-62 (Holy Sarkomand)|L|Y|1645|25.96
+<LOResults>55|Col 285 Sector CG-O d6-62 (Mi-go Neuroscience Lab)|M|N|1651|25.96
+<LOResults>56|Col 285 Sector CG-O d6-62 (Priest Platform)|L|Y|1651|25.96
+<LOResults>57|HIP 82553 (Mil Point)|L|N|1108|26.93
+<LOResults>58|HIP 82553 (Towers Legacy)|L|N|1111|26.93
+<LOResults>59|HIP 82553 (Butler Depot)|M|N|12536|26.93
+<LOResults>60|Col 285 Sector QA-W a45-2 (Atanes Prospect)|L|N|372|27.00
+<LOResults>61|Col 285 Sector QA-W a45-2 (Peron Relay)|M|N|657|27.00
+<LOResults>62|Col 285 Sector QA-W a45-2 (Martinez Reach)|L|N|909|27.00
+<LOResults>63|Gamma Apodis (Vess Gateway)|L|N|208058|27.03
+<LOResults>64|Indjibandi (Frobenius Landing)|L|Y|5803|27.05
+<LOResults>65|Col 285 Sector YA-K b23-6 (Everest Platform)|L|N|115|27.14
+<LOResults>66|Col 285 Sector YA-K b23-6 (Brillant Mine)|L|N|143|27.14
+<LOResults>67|Col 285 Sector YA-K b23-6 (Salam Prospect)|M|N|196|27.14
+<LOResults>68|Col 285 Sector YA-K b23-6 (Amos Relay)|L|Y|363|27.14
+<LOResults>69|Col 285 Sector YA-K b23-6 (Verne City)|L|N|603|27.14
+<LOResults>70|Ekondhri (Holden Legacy)|L|Y|2591|27.52
+<LOResults>71|Ekondhri (Allen Gateway)|L|N|2952|27.52
+<LOResults>72|Col 285 Sector WP-L b22-6 (Bolotov Beacon)|M|N|1|27.58
+<LOResults>73|Col 285 Sector WP-L b22-6 (Stellas Homebase)|L|N|225|27.58
+<LOResults>74|Col 285 Sector WP-L b22-6 (Mackendrick's Pride)|L|Y|226|27.58
+<LOResults>75|Col 285 Sector WP-L b22-6 (Pontes Relay)|L|Y|625|27.58
+<LOBlank>5
+<GUIKILLANIMATION>
+<switchTo:displaylocations:endSwitch>

@@ -1,0 +1,128 @@
+<LMClear>
+<LMDetail>1|AX Missile Rack
+<LMDetail>2|AX Multi-cannon
+<LMDetail>3|Abrasion Blaster
+<LMDetail>4|Advanced Docking Computer
+<LMDetail>5|Advanced Plasma Accelerator
+<LMDetail>6|Auto Field-Maintenance Unit
+<LMDetail>7|Beam Laser
+<LMDetail>8|Bi-Weave Shield Generator
+<LMDetail>9|Burst Laser
+<LMDetail>10|Business Class Passenger Cabin
+<LMDetail>11|Cannon
+<LMDetail>12|Cargo Rack
+<LMDetail>13|Caustic Sink Launcher
+<LMDetail>14|Chaff Launcher
+<LMDetail>15|Collector Limpet Controller
+<LMDetail>16|Concord Cannon
+<LMDetail>17|Corrosion Resistant Cargo Rack
+<LMDetail>18|Cytoscrambler Burst Laser
+<LMDetail>19|Decontamination Limpet Controller
+<LMDetail>20|Detailed Surface Scanner
+<LMDetail>21|Economy Class Passenger Cabin
+<LMDetail>22|Electronic Countermeasure
+<LMDetail>23|Enforcer Cannon
+<LMDetail>24|Enhanced AX Missile Rack
+<LMDetail>25|Enhanced AX Multi-cannon
+<LMDetail>26|Enhanced Performance Thrusters
+<LMDetail>27|Enhanced Xeno Scanner
+<LMDetail>28|Experimental Weapon Stabiliser
+<LMDetail>29|First Class Passenger Cabin
+<LMDetail>30|Fragment Cannon
+<LMDetail>31|Frame Shift Drive
+<LMDetail>32|Frame Shift Drive Interdictor
+<LMDetail>33|Frame Shift Wake Scanner
+<LMDetail>34|Fuel Scoop
+<LMDetail>35|Fuel Tank
+<LMDetail>36|Fuel Transfer Limpet Controller
+<LMDetail>37|Guardian FSD Booster
+<LMDetail>38|Guardian Gauss Cannon
+<LMDetail>39|Guardian Hull Reinforcement
+<LMDetail>40|Guardian Hybrid Power Distributor
+<LMDetail>41|Guardian Module Reinforcement
+<LMDetail>42|Guardian Plasma Charger
+<LMDetail>43|Guardian Power Plant
+<LMDetail>44|Guardian Shard Cannon
+<LMDetail>45|Guardian Shield Reinforcement
+<LMDetail>46|Hatch Breaker Limpet Controller
+<LMDetail>47|Heat Sink Launcher
+<LMDetail>48|Hull Reinforcement Package
+<LMDetail>49|Imperial Hammer Rail Gun
+<LMDetail>50|Kill Warrant Scanner
+<LMDetail>51|Large Planetary Vehicle Hangar
+<LMDetail>52|Life Support
+<LMDetail>53|Lightweight Alloy
+<LMDetail>54|Luxury Class Passenger Cabin
+<LMDetail>55|Manifest Scanner
+<LMDetail>56|Military Grade Composite
+<LMDetail>57|Mine Launcher
+<LMDetail>58|Mining Lance Beam Laser
+<LMDetail>59|Mining Laser
+<LMDetail>60|Mining Multi Limpet Controller
+<LMDetail>61|Mining Volley Repeater
+<LMDetail>62|Mirrored Surface Composite
+<LMDetail>63|Missile Rack
+<LMDetail>64|Mk II Ablative Lightweight Alloy
+<LMDetail>65|Mk II Ablative Military Grade Composite
+<LMDetail>66|Mk II Ablative Mirrored Surface Composite
+<LMDetail>67|Mk II Ablative Reactive Surface Composite
+<LMDetail>68|Mk II Ablative Reinforced Alloy
+<LMDetail>69|Mk II Agile Boost Thrusters
+<LMDetail>70|Mk II Gravity Optimised Thrusters
+<LMDetail>71|Mk II Large Planetary Vehicle Hangar
+<LMDetail>72|Mk II Mining Multi Limpet Controller
+<LMDetail>73|Mk II Shock Plasma Accelerator
+<LMDetail>74|Mk II Vessel Hangar
+<LMDetail>75|MkII Business Class Passenger Cabin
+<LMDetail>76|MkII Cargo Rack
+<LMDetail>77|Modified Guardian Gauss Cannon
+<LMDetail>78|Modified Guardian Plasma Charger
+<LMDetail>79|Modified Guardian Shard Cannon
+<LMDetail>80|Module Reinforcement Package
+<LMDetail>81|Multi-cannon
+<LMDetail>82|Operations Limpet Controller
+<LMDetail>83|Pacifier Frag-cannon
+<LMDetail>84|Pack-Hound Missile Rack
+<LMDetail>85|Planetary Approach Suite
+<LMDetail>86|Planetary Vehicle Hangar
+<LMDetail>87|Plasma Accelerator
+<LMDetail>88|Point Defence
+<LMDetail>89|Power Distributor
+<LMDetail>90|Power Plant
+<LMDetail>91|Prismatic Shield Generator
+<LMDetail>92|Prospector Limpet Controller
+<LMDetail>93|Pulse Disruptor
+<LMDetail>94|Pulse Laser
+<LMDetail>95|Pulse Wave Analyser
+<LMDetail>96|Rail Gun
+<LMDetail>97|Reactive Surface Composite
+<LMDetail>98|Recon Limpet Controller
+<LMDetail>99|Refinery
+<LMDetail>100|Reinforced Alloy
+<LMDetail>101|Remote Release Flak Launcher
+<LMDetail>102|Repair Limpet Controller
+<LMDetail>103|Rescue Limpet Controller
+<LMDetail>104|Research Limpet Controller
+<LMDetail>105|Retributor Beam Laser
+<LMDetail>106|Rocket Propelled FSD Disruptor
+<LMDetail>107|Seeker Missile Rack
+<LMDetail>108|Seismic Charge Launcher
+<LMDetail>109|Sensors
+<LMDetail>110|Shield Booster
+<LMDetail>111|Shield Cell Bank
+<LMDetail>112|Shield Generator
+<LMDetail>113|Shock Mine Launcher
+<LMDetail>114|Shutdown Field Neutraliser
+<LMDetail>115|Sirius AX Missile Rack
+<LMDetail>116|Sirius Heat Sink Launcher
+<LMDetail>117|Standard Docking Computer
+<LMDetail>118|Sub-surface Displacement Missile
+<LMDetail>119|Supercruise Assist
+<LMDetail>120|Thargoid Pulse Neutraliser
+<LMDetail>121|Thrusters
+<LMDetail>122|Torpedo Pylon
+<LMDetail>123|Universal Multi Limpet Controller
+<LMDetail>124|Vessel Hangar
+<LMDetail>125|Xeno Limpet Controller
+<LMDetail>126|Xeno Scanner
+<LMDisplay>

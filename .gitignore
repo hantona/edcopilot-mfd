@@ -1,0 +1,11 @@
+bin
+build
+bundle
+dist
+edcopilot-mfd.spec
+.idea
+.venv
+.venv_linux
+.venv_windows
+**/temp
+**/__pycache__

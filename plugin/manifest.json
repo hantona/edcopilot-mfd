@@ -1,0 +1,32 @@
+{
+  "$schema": "https://dmnemec.github.io/edvr-mfd/schema/manifest.v1.schema.json",
+  "manifestVersion": 1,
+  "id": "edcopilot",
+  "name": "EDCopilot",
+  "version": "1.0.0",
+  "author": "Andy Hanton",
+  "description": "A UI for EDCopilot",
+  "minPluginVersion": "1.0.0",
+  "screens": [
+    {
+      "id": "edcopilot",
+      "file": "screens/edcopilot.json",
+      "title": "EDCopilot",
+        "pose": {
+          "widthM": 0.36,
+          "heightM": 0.24
+      },
+      "contexts": ["ship_cockpit", "fighter"],
+      "excludeContexts": [],
+      "autoHideUntilGaze": false
+    }
+  ],
+  "companions": [
+    {
+      "id": "edcopilot",
+      "exe": "bin/edcopilot-mfd.exe",
+      "env": {},
+      "restart": "on-failure"
+    }
+  ]
+}

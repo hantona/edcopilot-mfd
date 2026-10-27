@@ -1,0 +1,63 @@
+<MPClear>
+<MPClear>
+<MPTitle>MINED MATERIALS - CURRENT BEST SELL PRICES
+<MPDetail>Alexandrite|685,681
+<MPDetail>Bastnasite|234,173
+<MPDetail>Bauxite|42,219
+<MPDetail>Benitoite|866,147
+<MPDetail>Bertrandite|23,719
+<MPDetail>Bromellite|116,750
+<MPDetail>Cobalt|20,108
+<MPDetail>Coltan|8,796
+<MPDetail>Copper|1,931
+<MPDetail>Cryolite|29,940
+<MPDetail>Deuterium|121,485
+<MPDetail>Diamond|413,612
+<MPDetail>Gallite|15,391
+<MPDetail>Gold|67,832
+<MPDetail>Goslarite|16,048
+<MPDetail>Grandidierite|613,728
+<MPDetail>Haematite|19,348
+<MPDetail>Helium|515,178
+<MPDetail>Helium-3|481,938
+<MPDetail>Hydrogen Peroxide|3,301
+<MPDetail>Indite|14,848
+<MPDetail>Iridium|1,049,010
+<MPDetail>Jadeite|176,561
+<MPDetail>Lepidolite|6,450
+<MPDetail>Lithium|2,892
+<MPDetail>Lithium Hydroxide|7,729
+<MPDetail>Low Temperature Diamonds|692,212
+<MPDetail>Magnesite|113,828
+<MPDetail>Methane Clathrate|1,740
+<MPDetail>Methanol Monohydrate Crystals|3,794
+<MPDetail>Moissanite|183,898
+<MPDetail>Monazite|947,239
+<MPDetail>Musgravite|978,294
+<MPDetail>Olivine|93,692
+<MPDetail>Osmium|273,000
+<MPDetail>Painite|528,968
+<MPDetail>Palladium|71,482
+<MPDetail>Periclase Dunite|636,514
+<MPDetail>Platinum|302,844
+<MPDetail>Praseodymium|11,509
+<MPDetail>Pyrophyllite|29,098
+<MPDetail>Quartz Pyroxenite|138,428
+<MPDetail>Rhodplumsite|839,805
+<MPDetail>Ruby|338,597
+<MPDetail>Rutile|22,112
+<MPDetail>Samarium|48,636
+<MPDetail>Sapphire|398,562
+<MPDetail>Serendibite|689,075
+<MPDetail>Silver|49,426
+<MPDetail>Taaffeite|217,221
+<MPDetail>Tantalum|15,582
+<MPDetail>Thorium|12,917
+<MPDetail>Thortveitite|636,514
+<MPDetail>Titanium|5,865
+<MPDetail>Tritium|61,894
+<MPDetail>Uraninite|4,731
+<MPDetail>Uranium|8,587
+<MPDetail>Void Opals|882,117
+<MPDetail>Water|1,969
+<MPDisplay>
