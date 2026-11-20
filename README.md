@@ -65,5 +65,5 @@ bundle/edcopilot-mfd.zip or bundle/edcopilot-mfd-linux.tar.gz.
 
 If the companion is disabled in the MFD plugin settings, it can be run
 from an IDE and restarted without restarting the game.  Most of the
-features can be tested without the game running using the test interface
+features can be tested without the game running in VR using the test interface
 in src/mfdclient/guiclient.py.

@@ -77,7 +77,7 @@ class JournalWatcher(PatternMatchingEventHandler):
         recent_files = []
         newest_mtime = 0
 
-        self.log.debug("Start reading journals")
+        # self.log.debug("Start reading journals")
         for file in files:
             if not file.name.endswith(".log"):
                 continue
@@ -94,7 +94,6 @@ class JournalWatcher(PatternMatchingEventHandler):
                 self.read_journal(f)
 
         self.scan_start_time = newest_mtime
-        self.log.debug(f"Updated scan_start_time to {newest_mtime}")
 
 
     @staticmethod
@@ -190,6 +189,6 @@ class JournalWatcher(PatternMatchingEventHandler):
 
 
     def on_any_event(self, event: FileSystemEvent) -> None:
-        self.log.debug(f"Received journal file change event: {event}")
+        # self.log.debug(f"Received journal file change event: {event}")
         self.read_journals()
         self.files_processed.set()

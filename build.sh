@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pip_dependencies=(watchdog==7.1.0 filelock==4.2.9 psutil pyinstaller pysimplegui)
+pip_dependencies=(watchdog==6.0.0 filelock==4.2.9 psutil pyinstaller pysimplegui)
 
 version="$1"
 
