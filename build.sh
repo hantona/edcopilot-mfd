@@ -28,8 +28,6 @@ if ! file .venv 2>&1 |grep -q ': symbolic link to /mnt/[a-z]/' ; then
   ln -s .venv_linux .venv
 fi
 
-ln -s .venv_linux .venv
-
 echo "Installing dependencies"
 # shellcheck disable=SC2086
 .venv_linux/bin/pip install "${pip_dependencies[@]}"
