@@ -51,7 +51,8 @@ def build_plugin_path(relative):
     # If EDVR is running the script, the working directory will be the mfds/edcopilot
     # If that isn't the working directory, try to guess the game path
     if running_from_ed():
-        return relative
+        # Use the fully qualified path to avoid passing the empty string as a directory to the event file watcher
+        return str(Path(relative).absolute())
     else:
         for potential_base in [WINDOWS_BASE_STEAM, WINDOWS_BASE_EPIC, WINDOWS_BASE_FRONTIER, WSL_BASE_STEAM,
                                LINUX_BASE_STEAM]:
