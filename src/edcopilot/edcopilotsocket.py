@@ -10,7 +10,6 @@ from edcopilot import blockingsocket
 from edcopilot.socketclient import SocketClient
 from testing.messagelogger import MessageLogger
 
-EDCOPILOT_HOST = "127.0.0.1"
 EDCOPILOT_PORT = 9096
 
 class EDCopilotSocket:
@@ -19,11 +18,13 @@ class EDCopilotSocket:
     The connection supports multiple virtual connections over the same physical connection.
     Responses are tagged with the id of the virtual connection or with '*' if the message is for all connections."""
 
-    def __init__(self, status, global_lock, open_handler=None):
+    def __init__(self, status, global_lock, open_handler=None, hostname="127.0.0.1"):
         self.log = logging.getLogger(self.__class__.__name__)
 
         self.status = status
         self.global_lock = global_lock
+        self.hostname = hostname
+
         self.broadcast_handlers = []
         self.completion_handlers = []
         self.disconnect_handlers = []
@@ -165,7 +166,7 @@ class EDCopilotSocket:
         if json_message["msgType"] == "GUIPING" and json_message["guiID"] == "*":
             ping_iteration = json_message["iter"]
             for client in self.clients:
-                ip_address = EDCOPILOT_HOST
+                ip_address = self.hostname
                 self.send(
                     f"GUIPINGREPLY:{client.client_id}:{ip_address}:{ping_iteration}")
 
@@ -204,13 +205,13 @@ class EDCopilotSocket:
         # supress sequential logging of connection failures
         last_log_message = ""
 
-        self.log.debug(f"Connecting to {EDCOPILOT_HOST}:{EDCOPILOT_PORT}")
+        self.log.debug(f"Connecting to {self.hostname}:{EDCOPILOT_PORT}")
         self.voicelog_seen = False
         while not self.connected and not self.exit:
             try:
                 self.socket = blockingsocket.BlockingSocket(socket.AF_INET, socket.SOCK_STREAM)
                 self.socket.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
-                self.socket.connect((EDCOPILOT_HOST, EDCOPILOT_PORT))
+                self.socket.connect((self.hostname, EDCOPILOT_PORT))
                 self.log.debug("Connected to EDCoPilot service")
                 self.connected = True
                 self.on_open()
@@ -227,7 +228,7 @@ class EDCopilotSocket:
                 if self.socket is not None:
                     self.socket.close()
                     self.socket = None
-            except OSError as e:
+            except (OSError | TimeoutError) as e:
                 log_message = "EDCopilot socket connection failed"
                 if log_message != last_log_message:
                     self.log.exception(log_message, e)
@@ -240,7 +241,8 @@ class EDCopilotSocket:
         try:
             if newline:
                 message = message + "\n"
-            self.log.debug(f"Sent message to EDCoPilot: {message.rstrip()}")
+            if 'GUIPING' not in message:
+                self.log.debug(f"Sent message to EDCoPilot: {message.rstrip()}")
             sent = 0
             if self.socket is not None and self.connected:
                 sent = self.socket.sendall(message.encode("utf-8"))
@@ -272,7 +274,7 @@ class EDCopilotSocket:
             if not self.connected:
                 self.connect()
         except (ConnectionResetError, ConnectionAbortedError) as e:
-            self.log.error("Connection reset while receiving from the socket", e)
+            self.log.exception("Connection reset while receiving from the socket", e)
             self.close()
             self.connect()
 

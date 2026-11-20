@@ -1,6 +1,8 @@
 import getpass
 import json
 import logging
+import re
+import subprocess
 import threading
 import time
 
@@ -11,14 +13,17 @@ from watchdog.observers import Observer
 
 from data.armorprices import ship_remapping, armor_prices
 from openreadonly import open_shared_read
+from wsl import running_on_wsl
+
+WINDOWS_JOURNAL_PATH_SUFFIX = "Saved Games/Frontier Developments/Elite Dangerous"
 
 
 class JournalWatcher(PatternMatchingEventHandler):
-    """Watch the Elite Dangerous Journal files and proccess new events
+    """Watch the Elite Dangerous Journal files and process new events
 
     Saves the currently active ship type and the list of factions that have recently issued an unpaid bounty.
     """
-    WINDOWS_JOURNAL_PATH = Path.home() / "Saved Games/Frontier Developments/Elite Dangerous"
+    WINDOWS_JOURNAL_PATH = Path.home() / WINDOWS_JOURNAL_PATH_SUFFIX
     WSL_JOURNAL_PATH = Path(f"/mnt/c/Users/{getpass.getuser()}/Saved Games/Frontier Developments/Elite Dangerous")
     LINUX_JOURNAL_PATH = Path.home() / ".steam/steam/steamapps/compatdata/359320/pfx/drive_c/users/steamuser/Saved Games/Frontier Developments/Elite Dangerous"
 
@@ -47,6 +52,7 @@ class JournalWatcher(PatternMatchingEventHandler):
         if journal_path:
             self.journal_path = journal_path
         else:
+            self.log.debug(self.WSL_JOURNAL_PATH)
             self.journal_path = self.find_journal()
 
 
@@ -61,15 +67,29 @@ class JournalWatcher(PatternMatchingEventHandler):
         self.observer.join()
 
 
+    # The name of a user in the WSL Linux subsystem doesn't always match their Windows user
+    # Run the Windows whoami command to build the correct Windows home directory that should hold the journal
+    # This is still broken on WSL because inotify doesn't work, which could be fixed by polling
+    @staticmethod
+    def get_wsl_path():
+        if running_on_wsl():
+            wsl_domain_and_username = subprocess.check_output(['cmd.exe', '/c', 'whoami']).decode().rstrip()
+            wsl_username = re.sub("^.*\\\\", "", wsl_domain_and_username)
+            return Path(f"/mnt/c/Users/{wsl_username}/{WINDOWS_JOURNAL_PATH_SUFFIX}")
+        return None
+
+
     def find_journal(self):
         if self.WINDOWS_JOURNAL_PATH.exists():
             return self.WINDOWS_JOURNAL_PATH
-        elif self.WSL_JOURNAL_PATH.exists():
-            return self.WSL_JOURNAL_PATH
-        elif self.LINUX_JOURNAL_PATH.exists():
-            return self.LINUX_JOURNAL_PATH
         else:
-            raise FileNotFoundError("No journal directory found")
+            wsl_path = self.get_wsl_path()
+            if wsl_path and wsl_path.exists():
+                return wsl_path
+            elif self.LINUX_JOURNAL_PATH.exists():
+                return self.LINUX_JOURNAL_PATH
+            else:
+                raise FileNotFoundError("No journal directory found")
 
 
     def read_journals(self):

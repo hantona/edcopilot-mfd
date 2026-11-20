@@ -2,6 +2,8 @@ import json
 import logging
 import os
 import threading
+import time
+from pathlib import Path
 
 from watchdog.events import PatternMatchingEventHandler, FileSystemEvent
 from watchdog.observers import Observer
@@ -9,6 +11,7 @@ from watchdog.observers import Observer
 import pluginpaths
 from items.item import Item
 from openreadonly import open_shared_read
+from wsl import running_on_wsl
 
 
 class EventLogHandler(PatternMatchingEventHandler):
@@ -34,10 +37,15 @@ class EventLogHandler(PatternMatchingEventHandler):
 
 
     def start(self):
-        self.observer = Observer(timeout=0.01)
-        self.observer.name = "EventWatchdog"
-        self.observer.schedule(self, os.path.dirname(self.events_json_path), recursive=False)
-        self.observer.start()
+        if not running_on_wsl():
+            self.observer = Observer(timeout=0.01)
+            self.observer.name = "EventWatchdog"
+            self.observer.schedule(self, os.path.dirname(self.events_json_path), recursive=False)
+            self.observer.start()
+        else:
+            # Inotify is broken on WSL if the files are on the Windows partition
+            self.observer = PollingFileWatcher(self.events_json_path, self.on_any_event)
+            self.observer.start()
         self.log.info(f"Event file watcher started with initial event {self.last_event_seq} in {self.events_json_path}")
 
 
@@ -155,3 +163,42 @@ class EventLogHandler(PatternMatchingEventHandler):
     def on_any_event(self, event: FileSystemEvent) -> None:
         self.log.debug(f"Received event log file change event: {event}")
         self.process_new_events()
+
+
+class PollingFileWatcher(threading.Thread):
+    """A background thread that polls the events file for changes"""
+    def __init__(self, file, callback):
+        super().__init__(name="EventFileWatcher", daemon=True)
+        self.file = Path(file)
+        self.callback = callback
+
+        self.polling_interval = 0.1
+        self.last_change = 0
+        self.running = True
+
+
+    def run(self) -> None:
+        while self.running:
+            try:
+                stat = self.file.stat()
+                new_time = max(stat.st_ctime, stat.st_ctime)
+
+                if new_time != self.last_change:
+                    self.callback("File changed")
+                    self.last_change = new_time
+
+                time.sleep(self.polling_interval)
+            except FileNotFoundError:
+                self.last_change = 0
+
+
+    def stop(self) -> None:
+        self.running = False
+
+
+    def join(self, timeout=None) -> None:
+        time.sleep(self.polling_interval)
+
+
+
+

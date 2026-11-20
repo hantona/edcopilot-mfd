@@ -8,6 +8,7 @@ import pluginpaths
 from edcopilot.edcopilotsocket import EDCopilotSocket
 from eventhandler import EventLogHandler
 from journalwatcher import JournalWatcher
+from localaddress import get_local_ip_address
 from spansh_systems import SpanshSystems
 from views.informationview import InformationView
 from panel import Panel
@@ -36,7 +37,7 @@ class Application:
         self.journal_watcher.start()
 
         self.status = Status()
-        self.edcopilot_socket = EDCopilotSocket(self.status, self.global_lock)
+        self.edcopilot_socket = EDCopilotSocket(self.status, self.global_lock, hostname=get_local_ip_address())
         self.panel = Panel(self.edcopilot_socket, self.status)
 
         self.system_name_listener = SystemNameListener()
@@ -81,7 +82,7 @@ class Application:
         if self.add_shutdown_hook:
             signal.signal(signal.SIGTERM, self.handle_interrupt)
             signal.signal(signal.SIGINT, self.handle_interrupt)
-            signal.signal(signal.SIGBREAK, self.handle_interrupt)
+            # signal.signal(signal.SIGBREAK, self.handle_interrupt)
 
         self.event_handler.start()
         self.edcopilot_socket.start()
