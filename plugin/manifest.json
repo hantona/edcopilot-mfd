@@ -13,6 +13,9 @@
       "file": "screens/edcopilot.json",
       "title": "EDCopilot",
         "pose": {
+          "position": [-0.45, -0.22, -0.48],
+          "pitchDeg": -22.0,
+          "yawDeg": 32.0,
           "widthM": 0.36,
           "heightM": 0.24
       },
